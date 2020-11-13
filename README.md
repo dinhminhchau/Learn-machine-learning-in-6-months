@@ -1,2 +1,4 @@
 # Learn-machine-learning-in-6-months
-To start learning Python and Machine learning
+Hi all
+I create a Githut account to start learning Python and Machine learning.
+I promise to keep learning until I gain my purpose.
